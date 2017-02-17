@@ -1,2 +1,2 @@
 # cassina
-Blog for cassina.space
+Personal blog.
