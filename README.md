@@ -1,2 +1,1 @@
-# cassina
-Personal blog.
+# Personal blog.
